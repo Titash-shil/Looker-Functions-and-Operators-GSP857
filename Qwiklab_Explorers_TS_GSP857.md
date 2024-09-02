@@ -2,7 +2,7 @@
 
 # # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
-## Copy and replace below code in Looker
+## Copy and paste below code in Looker
 
 TASK 1 :-
 ```
@@ -15,8 +15,6 @@ explore: +flights {
     }
   }
 ```
-
-## Go to Looker from [here](https://t56fxdcyksox5tur34jbqk76ntszop4g27h5woxaxqt5xn7wl42q.us-central1-c.resources.bumper-boats-00.services.qwiklabs.com/explore/faa/flights)
 
 ### Follow next steps for Task-1 Carefully
 
@@ -32,8 +30,6 @@ explore: +flights {
   }
 ```
 
-## Go to Looker from [here](https://t56fxdcyksox5tur34jbqk76ntszop4g27h5woxaxqt5xn7wl42q.us-central1-c.resources.bumper-boats-00.services.qwiklabs.com/explore/faa/flights)
-
 ### Follow next steps for Task-2 Carefully
 
 TASK 3 :-
@@ -48,8 +44,6 @@ explore: +flights {
 }
 ```
 
-## Go to Looker from [here](https://t56fxdcyksox5tur34jbqk76ntszop4g27h5woxaxqt5xn7wl42q.us-central1-c.resources.bumper-boats-00.services.qwiklabs.com/explore/faa/flights)
-
 ### Follow next steps for Task-3 Carefully
 
 TASK 4 :-
@@ -62,8 +56,6 @@ explore: +flights {
     }
 }
 ```
-
-## Go to Looker from [here](https://t56fxdcyksox5tur34jbqk76ntszop4g27h5woxaxqt5xn7wl42q.us-central1-c.resources.bumper-boats-00.services.qwiklabs.com/explore/faa/flights)
 
 ### Follow next steps for Task-4 Carefully
 
@@ -79,7 +71,6 @@ explore: +flights {
 }
 ```
 
-## Go to Looker from [here](https://t56fxdcyksox5tur34jbqk76ntszop4g27h5woxaxqt5xn7wl42q.us-central1-c.resources.bumper-boats-00.services.qwiklabs.com/explore/faa/flights)
 
 ### Follow next steps for Task-5 Carefully
 
