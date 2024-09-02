@@ -15,6 +15,11 @@ explore: +flights {
     }
   }
 ```
+
+## Go to Looker from [here](https://t56fxdcyksox5tur34jbqk76ntszop4g27h5woxaxqt5xn7wl42q.us-central1-c.resources.bumper-boats-00.services.qwiklabs.com/explore/faa/flights)
+
+### Follow next steps for Task-1 Carefully
+
 TASK 2 :-
 ```
 # Place in `faa` model
@@ -26,6 +31,11 @@ explore: +flights {
     }
   }
 ```
+
+## Go to Looker from [here](https://t56fxdcyksox5tur34jbqk76ntszop4g27h5woxaxqt5xn7wl42q.us-central1-c.resources.bumper-boats-00.services.qwiklabs.com/explore/faa/flights)
+
+### Follow next steps for Task-2 Carefully
+
 TASK 3 :-
 ```
 # Place in `faa` model
@@ -37,6 +47,11 @@ explore: +flights {
     }
 }
 ```
+
+## Go to Looker from [here](https://t56fxdcyksox5tur34jbqk76ntszop4g27h5woxaxqt5xn7wl42q.us-central1-c.resources.bumper-boats-00.services.qwiklabs.com/explore/faa/flights)
+
+### Follow next steps for Task-3 Carefully
+
 TASK 4 :-
 ```
 # Place in `faa` model
@@ -47,6 +62,11 @@ explore: +flights {
     }
 }
 ```
+
+## Go to Looker from [here](https://t56fxdcyksox5tur34jbqk76ntszop4g27h5woxaxqt5xn7wl42q.us-central1-c.resources.bumper-boats-00.services.qwiklabs.com/explore/faa/flights)
+
+### Follow next steps for Task-4 Carefully
+
 TASK 5 :-
 ```
 # Place in `faa` model
@@ -58,6 +78,13 @@ explore: +flights {
     }
 }
 ```
+
+## Go to Looker from [here](https://t56fxdcyksox5tur34jbqk76ntszop4g27h5woxaxqt5xn7wl42q.us-central1-c.resources.bumper-boats-00.services.qwiklabs.com/explore/faa/flights)
+
+### Follow next steps for Task-5 Carefully
+
+
+
 # Congratulations ..!!🎉  You completed the lab shortly..😃💯
 
 # *Well done..!* 👏
