@@ -9,7 +9,7 @@
 
 - ## Copy and paste below code in Looker
 
-TASK 1 :-
+- TASK 1 :-
 ```
 # Place in `faa` model
 explore: +flights {
@@ -23,7 +23,7 @@ explore: +flights {
 
 - ### Follow next steps for Task-1 Carefully
 
-TASK 2 :-
+- TASK 2 :-
 ```
 # Place in `faa` model
 explore: +flights {
@@ -37,7 +37,7 @@ explore: +flights {
 
 - ### Follow next steps for Task-2 Carefully
 
-TASK 3 :-
+- TASK 3 :-
 ```
 # Place in `faa` model
 explore: +flights {
@@ -51,7 +51,7 @@ explore: +flights {
 
 - ### Follow next steps for Task-3 Carefully
 
-TASK 4 :-
+- TASK 4 :-
 ```
 # Place in `faa` model
 explore: +flights {
@@ -64,7 +64,7 @@ explore: +flights {
 
 - ### Follow next steps for Task-4 Carefully
 
-TASK 5 :-
+- TASK 5 :-
 ```
 # Place in `faa` model
 explore: +flights {
@@ -75,7 +75,6 @@ explore: +flights {
     }
 }
 ```
-
 
 - ### Follow next steps for Task-5 Carefully
 
